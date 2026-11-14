@@ -245,3 +245,10 @@ output/images/page_N.jpg
 | `PresetParams.java` | 文字／図版のプリセット |
 | `CurveAdjustmentParams.java` | トーンカーブ |
 | `ImageUtils.java` | 画像ユーティリティ |
+---
+
+## 许可 / License
+
+本项目以 [MIT](./LICENSE) 许可证发布。
+
+Licensed under the [MIT License](./LICENSE).
